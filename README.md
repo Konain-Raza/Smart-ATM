@@ -1,5 +1,5 @@
-<div align="center">
-  <img src="https://example.com/smart-atm-icon.png" alt="Smart ATM Icon" width="200" height="200">
+hi<div align="center">
+  <img src="./icon.png" alt="Smart ATM Icon" width="200" height="200">
 </div>
 
 # 💳 Smart ATM
@@ -24,7 +24,7 @@ Welcome to Smart ATM, an advanced automated teller machine system that offers co
 
 ## 💻 Installation
 
-Download the setup file (`Smart ATM.msi`) from the `Installation` folder and follow the on-screen instructions to install Smart ATM on your computer. Ensure that all system requirements are met before proceeding with the installation process.
+Download the setup file (`atm_setup.msi`) from the `Installation` folder and follow the on-screen instructions to install Smart ATM on your computer. Ensure that all system requirements are met before proceeding with the installation process.
 
 ## 🤝 Contributing
 
