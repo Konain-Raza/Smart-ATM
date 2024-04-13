@@ -1,5 +1,5 @@
-hi<div align="center">
-  <img src="./icon.png" alt="Smart ATM Icon" width="200" height="200">
+<div align="center">
+  <img src="./icon.png" alt="Smart ATM Icon"  width="400" height="200">
 </div>
 
 # 💳 Smart ATM
